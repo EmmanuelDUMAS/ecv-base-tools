@@ -1,0 +1,22 @@
+# .gitignore
+# -----------------------------------------------------------------------------
+# .gitignore for ecv-base-tools lib
+# -----------------------------------------------------------------------------
+# History
+# 28/02/2023 E. Dumas : creation
+# -----------------------------------------------------------------------------
+
+.gitignore~
+
+*.py~
+__pycache__
+
+# I let each user to determine which IDE use
+.project
+.pydevproject
+.settings
+
+# build dir
+lib_build
+
+# end of file
