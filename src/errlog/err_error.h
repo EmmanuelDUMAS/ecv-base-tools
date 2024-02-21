@@ -42,7 +42,8 @@
  */
 
 /* standard include */
-#include <stdint.h>  /* for using ERR_Code_t */
+#include <errlog/err_code.h>      /* for using ERR_Code_t */
+#include <errlog/err_no_error.h>  /* for eERR_NoError     */
 
 /* ----------------------------------------------------------------------------
  * Code value declaration
