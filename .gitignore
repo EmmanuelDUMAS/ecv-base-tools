@@ -4,6 +4,7 @@
 # -----------------------------------------------------------------------------
 # History
 # 28/02/2023 E. Dumas : creation
+# 23/02/2024 E. Dumas : add .cproject
 # -----------------------------------------------------------------------------
 
 .gitignore~
@@ -12,6 +13,7 @@
 __pycache__
 
 # I let each user to determine which IDE use
+.cproject
 .project
 .pydevproject
 .settings
